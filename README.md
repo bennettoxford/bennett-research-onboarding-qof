@@ -9,22 +9,18 @@ Before using this template, you are expected to have worked through the [OpenSAF
 - Code review
 - Testing of ehrQL dataset definitions and analysis code.
 
-## Cloning the template repository🔗
+## Cloning the template repository
 
-To start, clone the this repository into your own GitHub account by clicking the following link: https://github.com/bennettoxford/bennett-research-onboarding-qof/generate.
-
-Leave the "Include all branches" option unchecked, and, using the Owner drop-down menu, select your GitHub account as the owner.
-
-Give the repository a name and a description.
-
-Choose "Public" as the repository visibility. Finally, click Create repository from template.
-
-The new GitHub repository will take a moment to initialise, as it is running some setup in background. Wait about 1 minute, then reload the page.
+1. Click this link to start: https://github.com/bennettoxford/bennett-research-onboarding-qof/generate.
+1. Leave the "**Include all branches**" option unchecked
+1. In the _General_ section, select your GitHub account as the "**Owner**" and enter a "**Repository name**" and "**Description**"
+1. In the _Configuration_ section choose "**Public**" as the repository visibility.
+1. Finally, click the "**Create repository**" button.
+1. The new GitHub repository will take a moment to initialise, as it is running some setup in background. **Wait about 1 minute, then reload the page**.
 
 ## Completing the task
 
-When you create a new repository from this template, there will be some issues created. You should work through these sequentially. For each you should open a pull request (see our [guidance for code review](https://bennett.wiki/tech-group/git-and-github-etiquette/#pull-requests-and-code-review)) and post a link to the pull request in #research-code-review on Slack. 
-
+When you create a new repository from this template, there will be some issues created. You should work through these sequentially. For each you should open a pull request (see our [guidance for code review](https://bennett.wiki/tech-group/git-and-github-etiquette/#pull-requests-and-code-review)) and post a link to the pull request in `#research-code-review` on Slack. 
 
 ## Resources
 
@@ -33,4 +29,3 @@ When you create a new repository from this template, there will be some issues c
 - [OpenCodelists](https://www.opencodelists.org/) - Find and create clinical codelists
 - [OpenSAFELY Community](https://www.opensafely.org/)
 - [Getting Help](https://github.com/opensafely/documentation/discussions)
-
